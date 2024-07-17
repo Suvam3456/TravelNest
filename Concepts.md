@@ -1,6 +1,6 @@
 ////////////////////////////    PTS      /////////////////////////////////////////
 
-Open folder in Vscode -> Open cmd and run mongosh -> On vs code terminal run nodemon app.js
+Open folder in Vscode -> Open cmd and run mongosh -> On vs code terminal run nodemon app.js -> localhost:8080/listings
 
 let chat1 = new Chat({
 from:"Akash",
