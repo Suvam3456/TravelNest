@@ -1,5 +1,7 @@
 ////////////////////////////    PTS      /////////////////////////////////////////
 
+Open folder in Vscode -> Open cmd and run mongosh -> On vs code terminal run nodemon app.js
+
 let chat1 = new Chat({
 from:"Akash",
 to: "Aman",
