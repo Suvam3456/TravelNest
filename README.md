@@ -1,6 +1,6 @@
 # TravelNest
 
- A full-stack Airbnb-style web application enabling users to list and rent properties with secure Google and Facebook authentication and integrated Cloudinary for seamless image upload and storage.
+ A full-stack Airbnb-style web application enabling users to list and rent properties and integrated Cloudinary for seamless image upload and storage.
 Home Page :-
 
 ![image](https://github.com/user-attachments/assets/a9a44a91-fec9-4d3a-95ea-b6bc1d983cf7)
